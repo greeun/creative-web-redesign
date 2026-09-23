@@ -1,6 +1,7 @@
 ---
 name: creative-web-redesign
 description: "Use when the user wants to redesign or renew a website with creative, non-generic concepts. Triggers: '홈페이지 리뉴얼', '웹사이트 디자인', '창의적 디자인', '리디자인', 'website redesign', 'creative design concepts', '홈화면 새롭게', '랜딩페이지 디자인'. Generates optimized prompts that force diversity, reject AI slop, and produce visual companion mockups."
+version: 1.0.0
 ---
 
 # Creative Web Redesign - Dynamic Prompt Generator
